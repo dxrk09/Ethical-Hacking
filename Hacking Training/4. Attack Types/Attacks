@@ -1,0 +1,39 @@
+Application attacks
+-------------------------------------------------------
+| Causes   | Results             | Other App Attacks  |
+-------------------------------------------------------
+| Time     | Buffer overflows    | Session hijacking  |
+| Features | Cross-site scripting| Man in the middle  |
+| QA       | SQL Injection       | Directory traversal|
+| Add-on   | DOS and SYN / Active content |           |
+-------------------------------------------------------
+
+
+Misconfiguration attacks
+*Targets:
+	-Web servers
+	-App platforms
+	-Frameworks
+	-Databases
+	-Hardware
+
+
+Shrink-wrap code attacks
+*Lazy devs take short cuts
+*Fine tune scripts
+*Build-in scripts
+
+
+OS attacks
+*Gaining access via vulnerabilities
+*OS vulnerabilities via defaults
+*OS attacks via non-updated systems
+
+
+Entry Points
+*Remote network
+*Dial-Up network
+*Local network
+*Stolen Equipment
+*Social engineering
+*Physical entry

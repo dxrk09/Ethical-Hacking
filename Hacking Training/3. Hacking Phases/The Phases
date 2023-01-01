@@ -1,0 +1,28 @@
+1-Reconnaissance
+*Passive: No direct interaction with the target
+*Active: Direct interaction with the target
+
+
+2-Scanning
+*Gather Info: ID systems / Vulnerabilities
+*Tools Used: Port Scanners / Vulnerability Scanners
+
+
+3-Gaining Access
+*path: via network or OS or application
+
+
+4-Maintain Access
+*PWNing the system
+*Use system as launchpad
+*Inject Backdoor/Trojans
+	-Used to revisit
+	-Used to sniff/monitor network
+*Use resources
+*Harden up
+
+
+5-Clearing Tracks
+*Destroy proof
+*Hide my stuff
+*Cyber Blind
