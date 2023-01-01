@@ -5,7 +5,8 @@ Application attacks
 | Time     | Buffer overflows    | Session hijacking  |
 | Features | Cross-site scripting| Man in the middle  |
 | QA       | SQL Injection       | Directory traversal|
-| Add-on   | DOS and SYN / Active content |           |
+| Add-on   | DOS and SYN         |                    |
+|          | Active content      |                    |
 -------------------------------------------------------
 
 
